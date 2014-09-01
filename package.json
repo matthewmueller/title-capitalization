@@ -1,0 +1,14 @@
+{
+  "name": "title-capitalization",
+  "version": "0.0.1",
+  "description": "Properly capitalize titles",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/MatthewMueller/title-capitalization.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
