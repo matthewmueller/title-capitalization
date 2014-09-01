@@ -1,0 +1,14 @@
+{
+  "name": "title-capitalization",
+  "repo": "matthewmueller/title-capitalization",
+  "description": "properly capitalize english titles",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
