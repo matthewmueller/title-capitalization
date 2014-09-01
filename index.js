@@ -77,7 +77,7 @@ function capitalize(title) {
 
     index = rsplit.lastIndex;
 
-    if (m) parts.push( m[0] );
+    if (m) parts.push(m[0]);
     else break;
   }
 
