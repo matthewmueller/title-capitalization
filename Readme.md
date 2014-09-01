@@ -9,7 +9,7 @@
 capitalize('smashed, squashed, splattered, chewed, chunked and spewed')
 // Smashed, Squashed, Splattered, Chewed, Chunked and Spewed
 
-capitalize('capitalize('so long, and thanks for all the fish (hitchhiker\'s guide, #4)')
+capitalize('so long, and thanks for all the fish (hitchhiker\'s guide, #4)')
 // So Long, and Thanks for All the Fish (Hitchhiker's Guide, #4)
 ```
 
